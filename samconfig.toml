@@ -3,7 +3,7 @@ version = 0.1
 [default.deploy]
 [default.deploy.parameters]
 stack_name = "sam-bbs"
-s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1a43izgm899g"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-34ob7iobad8c"
 s3_prefix = "sam-bbs"
 region = "ap-northeast-2"
 confirm_changeset = true
